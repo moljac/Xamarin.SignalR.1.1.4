@@ -1,14 +1,3 @@
-# ASP.NET SignalR + Xamarin Mobile
-
-Ported by [http://holisticware.net](http://holisticware.net)
-
-Added:
-
-1.	Libraries		
-	1.	Xamarin.iOS		
-	2.	Xamarin.Android		
-2. 	Samples		
-	1. 
 # ASP.NET SignalR 
 Async signaling library for .NET to help build real-time, multi-user interactive web applications
 
